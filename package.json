@@ -1,0 +1,30 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ex01": "ts-node ex01.ts",
+    "ex02": "ts-node ex02.ts",
+    "ex03": "ts-node ex03.ts",
+    "ex04": "ts-node ex04.ts",
+    "ex05": "ts-node ex05.ts",
+    "ex06": "ts-node ex06.ts",
+    "ex07": "ts-node ex07.ts",
+    "ex08": "ts-node ex08.ts",
+    "ex09": "ts-node ex09.ts",
+    "ex10": "ts-node ex10.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.23",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
